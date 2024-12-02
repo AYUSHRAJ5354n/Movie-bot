@@ -14,9 +14,9 @@
       "index",
       "inline"
     ],
-    "website": "https://github.com/EvamariaTG/EvaMaria",
-    "repository": "https://github.com/EvamariaTG/EvaMaria",
-    "logo": "https://telegra.ph/file/b50505fc5da68f48632d2.jpg",
+    "website": "@Anime_donghuo",
+    "repository": "@Anime_donghuo",
+    "logo": "https://ssl.gstatic.com/images/icons/material/system/1x/done_white_16dp.png",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
